@@ -1,6 +1,6 @@
-Hey there! I'm Pooja Raja, an aspiring computer science student from VIT, Vellore. I am Interested in Designing, Research, Space, Software Development and Agile Methodologies. Hence, I'm always on the lookout for more problems I can help solving or a new idea I can code into a website.
+Hey there! I'm Pooja Raja, an aspiring Business Analyst with a love for data analysis. I am Interested in Designing, Research, Space, Software Development and visualization. 
 
-Currently, I am trying to learn new skills like UI/UX design, Frontend Development and DSA. 
+Currently, I am trying to learn new skills like UI/UX design, AI and ML 
 I see everyday as an opportunity to learn something new.
 
 When I'm not in front of my computer, I like to sing, play the ukulele and nerd out about space.
